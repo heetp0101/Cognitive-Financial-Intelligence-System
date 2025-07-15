@@ -1,0 +1,42 @@
+.filter{
+    box-shadow: 0 0 3px gray;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.transaction-form label{
+    color: rgba(0, 0, 0, 0.74) !important;
+}
+
+.transaction-form input{
+    border: 1px solid gray;
+    border-bottom: 1px solid gray;
+    box-shadow: none !important;
+}
+
+.transaction-form select{
+    border: 1px solid gray !important;
+}
+
+.anticon svg{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.view-switch{
+    border: 1px solid rgba(0, 0, 0, 0.74);
+    border-radius: 5px;
+}
+
+.active-icon{
+    color: black;
+}
+
+.inactive-icon{
+    color:gray;
+}
+
+.mx-2{
+    margin-right: -3.5rem!important;
+    margin-left: 10.5rem!important;
+}

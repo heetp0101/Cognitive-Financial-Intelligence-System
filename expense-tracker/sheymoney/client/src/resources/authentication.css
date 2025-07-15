@@ -1,0 +1,33 @@
+.register
+{
+    height: 100vh;          
+    display:flex;           
+    align-items: center;
+    background-image: linear-gradient(to right, #89c653 0%, #056925 100%);
+}
+
+.lottie
+{
+    height: 400px;
+}
+
+.register input{
+    background-color: transparent;
+    border:none;
+    border-bottom: 1px solid #00f2fe;
+    color: white;
+}
+
+input:focus{
+    outline:none !important;
+    box-shadow: none !important;
+}
+
+label,a{
+    color: white !important;
+}
+
+.register h1{
+    font-size:25px;
+    color: white;
+}
